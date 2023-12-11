@@ -18,7 +18,7 @@ This Python script demonstrates a professional implementation of K-Nearest Neigh
 The script uses the Car Evaluation Dataset, where features like buying price, maintenance cost, and safety are used to predict the acceptability class of a car.
 
 ## Author
-- [Ali (Real0x0a1)]
+- Ali (Real0x0a1)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
