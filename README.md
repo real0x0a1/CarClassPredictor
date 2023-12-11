@@ -21,6 +21,6 @@ The script uses the Car Evaluation Dataset, where features like buying price, ma
 - Ali (Real0x0a1)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to contribute or raise issues!
