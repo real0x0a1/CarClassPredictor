@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# -*- Author: Ali -*-
+# -*- Author: Ali (Real0x0a1) -*-
 # -*- Info: This script demonstrates a professional approach to using K-Nearest Neighbors (KNN) for classification. -*-
 # -*- It loads and preprocesses a car evaluation dataset, trains a KNN classifier, and evaluates its performance. -*-
 
