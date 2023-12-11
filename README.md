@@ -11,14 +11,14 @@ This Python script demonstrates a professional implementation of K-Nearest Neigh
 - **Model Evaluation:** Evaluates the trained model's accuracy and provides a detailed breakdown of correct and incorrect predictions.
 
 ## How to Use
-1. Install the required dependencies: `pip install pandas scikit-learn`.
-2. Run the script: `python your_script_name.py`.
+1. Install the required dependencies: `pip3 install pandas scikit-learn`.
+2. Run the script: `python CarClassPredictor.py`.
 
 ## Dataset
 The script uses the Car Evaluation Dataset, where features like buying price, maintenance cost, and safety are used to predict the acceptability class of a car.
 
 ## Author
-- [Your Name]
+- [ Ali (Real0x0a1) ]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
